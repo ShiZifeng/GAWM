@@ -1,2 +1,2 @@
-GAWM: Global-Aware World Model for Multi-Agent Reinforcement Learning
+*GAWM: Global-Aware World Model for Multi-Agent Reinforcement Learning*
 Coming soon...
